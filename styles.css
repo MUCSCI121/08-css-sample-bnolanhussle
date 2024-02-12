@@ -1,0 +1,17 @@
+body {
+  background-color: darkseagreen;
+}
+
+div {
+  background-color: cornflowerblue;
+  color: black;
+  font-weight: 700;
+}
+
+div.movieSection {
+  background-color: white;
+}
+
+p#movieDescription {
+  font-weight: 900;
+}
