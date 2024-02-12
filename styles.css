@@ -1,3 +1,8 @@
+<style>
+body {
+  background-color: darkseagreen;
+}
+
 div {
   background-color: cornflowerblue;
   color: black;
@@ -11,3 +16,4 @@ div.movieSection {
 p#movieDescription {
   font-weight: 900;
 }
+</style>
